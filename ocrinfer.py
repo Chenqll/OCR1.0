@@ -11,7 +11,6 @@ import time
 
 result_dir = './test_result'
 class OCR:
-
     def ocr(self, image_file):
         # pdb.set_trace()
         # 预处理
